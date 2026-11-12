@@ -1,0 +1,6 @@
+niri/
+xwayland-satellite/
+pkg/
+src/
+*.pkg.tar.zst
+*.log
