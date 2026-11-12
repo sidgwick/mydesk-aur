@@ -1,5 +1,6 @@
 niri/
 xwayland-satellite/
+sni-watcher/
 pkg/
 src/
 *.pkg.tar.zst
